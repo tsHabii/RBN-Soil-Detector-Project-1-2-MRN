@@ -1,1 +1,67 @@
 # RBN-Soil-Detector-Project-1-2-MRN
+# Soil Detector Project
+
+This project is a **Soil Moisture Detector System** designed to measure soil moisture levels and help monitor plant health.  
+It includes hardware design files, 3D printed parts, circuit schematics, and Arduino-based code.
+
+---
+
+## 📂 Repository Contents
+
+- **Assembly 1 Drawing 1.dxf** → Assembly drawing for the soil detector housing.  
+- **Assembly 1.stl** → 3D printed parts for the detector casing.  
+- **Circuit for soil detector.png** → Circuit diagram for connecting the soil moisture sensor and microcontroller.  
+- **Swanky Uusam-Lappi.pdf** → Schematic diagram of the project.  
+- **swanky_uusam_lappi1.ino** → Arduino code to run the soil detector.  
+- **README.md** → Project documentation.
+
+---
+
+## 🛠️ Features
+
+- Detects soil moisture levels using a sensor.
+- Provides real-time monitoring.
+- Can be integrated with automated irrigation systems.
+- Compact design with 3D printed housing.
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+- Arduino board (e.g., Arduino Uno/Nano)
+- Soil Moisture Sensor
+- Jumper wires & breadboard
+- 3D printed housing (`Assembly 1.stl`)
+- Power supply (USB or battery)
+
+### Setup Instructions
+1. Print the 3D housing using the provided `.stl` file.  
+2. Assemble the parts using the **Assembly Drawing**.  
+3. Connect components as per the circuit diagram (`Circuit for soil detector.png`).  
+4. Upload the Arduino code (`swanky_uusam_lappi1.ino`) to your board.  
+5. Power up the system and insert the soil sensor into the soil.
+
+---
+
+## 📊 Circuit & Schematic
+
+Refer to:  
+- `Circuit for soil detector.png` (breadboard layout)  
+- `Swanky Uusam-Lappi.pdf` (detailed schematic)  
+
+---
+
+## 📷 Demo (Optional)
+
+_Add images or GIFs of the project in action here._  
+<img width="1192" height="726" alt="Circuit for soil detector " src="https://github.com/user-attachments/assets/75bb1645-5d2d-41ef-8e11-79659e7ea823" />
+
+
+
+
+---
+
+## 👤 Author
+
+Developed by **tsHabii**  
