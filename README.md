@@ -56,6 +56,9 @@ Refer to:
 
 _Add images or GIFs of the project in action here._  
 <img width="1192" height="726" alt="Circuit for soil detector " src="https://github.com/user-attachments/assets/75bb1645-5d2d-41ef-8e11-79659e7ea823" />
+<img width="642" height="757" alt="Final" src="https://github.com/user-attachments/assets/8434960b-8249-47f7-a478-3d7ceb8ffac5" />
+<img width="426" height="588" alt="Back" src="https://github.com/user-attachments/assets/41ef23a8-b368-49b4-acaa-51b94267ac50" />
+
 
 
 
