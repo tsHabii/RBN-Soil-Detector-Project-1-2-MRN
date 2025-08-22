@@ -59,6 +59,10 @@ _Add images or GIFs of the project in action here._
 <img width="642" height="757" alt="Final" src="https://github.com/user-attachments/assets/8434960b-8249-47f7-a478-3d7ceb8ffac5" />
 <img width="426" height="588" alt="Back" src="https://github.com/user-attachments/assets/41ef23a8-b368-49b4-acaa-51b94267ac50" />
 ![Picture2](https://github.com/user-attachments/assets/e86f41d9-1438-408d-8adb-a449d9f4e3f9)
+<img width="1222" height="716" alt="With buzzer addition" src="https://github.com/user-attachments/assets/1d641a71-4f96-49ec-aa50-104d8b3add57" />
+<img width="998" height="660" alt="Back2" src="https://github.com/user-attachments/assets/6363aa05-638c-4fd6-9648-adfc022e4ba6" />
+
+
 
 
 
