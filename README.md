@@ -34,6 +34,8 @@ It includes hardware design files, 3D printed parts, circuit schematics, and Ard
 - Jumper wires & breadboard
 - 3D printed housing (`Assembly 1.stl`)
 - Power supply (USB or battery)
+- Buzzer
+  
 
 ### Setup Instructions
 1. Print the 3D housing using the provided `.stl` file.  
